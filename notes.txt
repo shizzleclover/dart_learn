@@ -1,0 +1,4 @@
+To run your dart file from terminal you'd run 
+dart file_name.dart,
+Note to make sure that your in the directory of your file before typing this in your cmd, you can also use run and debug but it won't return a lot of things that may even be 
+important components of your file as an error,
